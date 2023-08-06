@@ -1,0 +1,5 @@
+jame 15 abc 2000  
+ve 19 def 4500  
+tol 42 ght 6500  
+chag 30 zmw 10000  
+good 19 sdad 500000  
